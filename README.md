@@ -1,2 +1,1 @@
-# okcash-whitepapers
-Okcash whitepapers
+# Okcash whitepapers
