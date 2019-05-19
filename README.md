@@ -7,3 +7,7 @@ https://github.com/okcashpro/okcash-whitepapers/blob/master/POS/okcash-pos-proto
 - **Okcash Long Term Sustainable Staking**
 
 https://github.com/okcashpro/okcash-whitepapers/blob/master/LTSS/okcash-long-term-staking-whitepaper.pdf
+
+- **Okcash Secure Encrypted Messaging**
+
+https://github.com/okcashpro/okcash-whitepapers/blob/master/SEM/okcash-secure-encrypted-messaging-whitepaper.pdf
