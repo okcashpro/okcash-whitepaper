@@ -1,6 +1,7 @@
-# Okcash white paper
+![OKCash-OK](https://i.imgur.com/WQklGrh.png)
+#  Okcash White Paper
 
-The Okcash White Paper is divided in 3 sections/wps:
+The Okcash White Paper is divided in this sections/wps:
 
 - **Okcash's Proof-of-Stake Protocol w/ LTSS**
 
