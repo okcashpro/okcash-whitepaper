@@ -7,10 +7,8 @@ The Okcash White Paper is divided in this sections/wps:
 
 https://github.com/okcashpro/okcash-whitepaper/blob/master/POS/okcash-pos-protocol-ltss-whitepaper.pdf
 
-- **Okcash Long Term Sustainable Staking**
+- **Okcash Long Term Sustainable Staking** - OK Halvings
 
 https://github.com/okcashpro/okcash-whitepaper/blob/master/LTSS/okcash-long-term-staking-whitepaper.pdf
 
-- **Okcash Secure Encrypted Messaging**
 
-https://github.com/okcashpro/okcash-whitepaper/blob/master/SEM/okcash-secure-encrypted-messaging-whitepaper.pdf
