@@ -1,4 +1,4 @@
-![OKCash-OK](https://i.imgur.com/WQklGrh.png)
+![OKCash-OK](https://i.imgur.com/bm6xnXX.png)
 #  Okcash White Paper
 
 The Okcash White Paper is divided in this sections/wps:
