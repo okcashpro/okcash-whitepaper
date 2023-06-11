@@ -11,4 +11,6 @@ https://github.com/okcashpro/okcash-whitepaper/blob/master/POS/okcash-pos-protoc
 
 https://github.com/okcashpro/okcash-whitepaper/blob/master/LTSS/okcash-long-term-staking-whitepaper.pdf
 
+- **OK Ascendant Redefining Decentralization Through an Empowered Voluntary OK DAO Model**
 
+https://github.com/okcashpro/okcash-whitepaper/blob/master/POS/ok-dao-redefining-decentralization-empowered-voluntary-model-whitepaper.pdf
